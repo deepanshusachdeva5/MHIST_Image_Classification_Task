@@ -18,7 +18,8 @@ The best test accuracy so far is 84% using Training_without_augmentation.ipynb w
 
 Hyperparameter Tuning is also implemented and L1 regularization is introduced using weight decay
 
-To check the results, open Evaluation.ipynb file
+TO CHECK THE RESULTS - open Evaluation.ipynb file
+
 To download the models, you can refer to this link - https://drive.google.com/drive/folders/1SucPWwk6N2l-z1p88ZaEM1oUjtKQXTx_?usp=drive_link
 
 ### CHECK THE LOCATION OF ALL THE FILES IN THE DEFINE VARIABLE SECTION, IN CASE OF RETRAIN
