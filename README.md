@@ -15,6 +15,7 @@ The best test accuracy so far is 84% using Training_without_augmentation.ipynb w
     3. vgg_net
     4. efficient_net
     5. ViT
+
 Hyperparameter Tuning is also implemented and L1 regularization is introduced using weight decay
 
 To check the results, open Evaluation.ipynb file
