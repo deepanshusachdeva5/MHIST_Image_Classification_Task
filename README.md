@@ -1,5 +1,9 @@
 # MHIST_Image_Classification_Task
 
+BEST RESULTS IN -  Training_without_augmentation.ipynb
+DATA EXPLORATION IN - Training_without_augmentation.ipynb/Training_with_augmentation.ipynb
+HEATMAP IN - Evaluation.ipynb
+LOSS GRAPH - Training_without_augmentation.ipynb
 
 There are 3 Training files:
 1. Training_without_augmentation.ipynb
